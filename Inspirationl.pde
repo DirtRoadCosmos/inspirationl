@@ -26,7 +26,7 @@ void draw() {
   text(theQuote, 30, 70, width-30, height-30);
 }
 
-void keyPressed() {
+void mousePressed() {
   currentQuote++;
   if (currentQuote >= quotes.length) {
     currentQuote = 0;
