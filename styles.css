@@ -11,7 +11,7 @@ body {
     margin-right: auto
 }
 
-[contenteditable]:focus { outline: none; }
+*:focus { outline: none; }
 
 header {
 
