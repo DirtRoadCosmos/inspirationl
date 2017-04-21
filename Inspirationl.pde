@@ -13,7 +13,7 @@ String[] quotes = {
 };
 
 void setup() {
-  size(500, 700);
+  size(500, 600);
   noLoop();
   currentQuote = (int)random(quotes.length);
 }
