@@ -24,7 +24,7 @@ String[] quotes = {
   "Don't call it a dream, call it a plan.",
   "Not until we are lost do we begin to find ourselves. - Henry David Thoreau",
   "We didn't realize we were making memories, we just knew we were having fun. - Winnie the Pooh",
-  "Stop waiting for Prince Charming. Get up and find him. The poor idiot may be stuck in a tree or something."
+  "Stop waiting for Prince Charming. Get up and find him. The poor idiot may be stuck in a tree or something.",
   "Sometimes the strongest among us are the ones who smile through silent pain, cry behind closed doors, and fight battles nobody knows about."  
 };
 
