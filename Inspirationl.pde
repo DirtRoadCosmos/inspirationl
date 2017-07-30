@@ -14,7 +14,18 @@ String[] quotes = {
   "New beginnings are often disguised as painful endings. - Lao Tzu",
   "No one is sent by accident to anyone. - A Course in Miracles",
   "Don't judge my story by the chapter you walked in on. - Unknown",
-  "How lucky I am to have something that makes saying goodbye so hard. - Winnie the Pooh"
+  "How lucky I am to have something that makes saying goodbye so hard. - Winnie the Pooh",
+  "Only those who care about you can hear you when you're quiet. - Unknown",
+  "You will never be completely at home again, because part of your heart will always be elsewhere. That is the price you pay for the richness of loving and knowing people in more than one place. - Miriam Adeney",
+  "Just because my path is different doesn't mean I'm lost. - Unknown",
+  "God is like oxygen. You can't see him but you need him to survive. - Unknown",
+  "One day or day one. You decide. - Unknown",
+  "It hurt because it mattered. - John Green",
+  "Don't call it a dream, call it a plan.",
+  "Not until we are lost do we begin to find ourselves. - Henry David Thoreau",
+  "We didn't realize we were making memories, we just knew we were having fun. - Winnie the Pooh",
+  "Stop waiting for Prince Charming. Get up and find him. The poor idiot may be stuck in a tree or something."
+  "Sometimes the strongest among us are the ones who smile through silent pain, cry behind closed doors, and fight battles nobody knows about."  
 };
 
 void setup() {
